@@ -47,7 +47,7 @@ Sistema de gestión de archivos que implementa el principio FIFO con dos version
 ## 🛠️ Instalación
 
 1. Clona el repositorio:
-   git clone https://github.com/tu-usuario/nanoxnet-file-manager.git
+   git clone https://github.com/NanoxNet/Fifo.git
    
 2. Navega al directorio:
    cd nanoxnet-file-manager
